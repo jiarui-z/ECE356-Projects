@@ -1,0 +1,1 @@
+mysql -u z498zhan -p db356_z498zhan -h marmoset04.shoshin.uwaterloo.ca < /Users/zhidongzhang/workspace/ECE356-lab-project/Lab4/extract_hall_of_fame_player.sql | tr '\t' ',' > /Users/zhidongzhang/workspace/ECE356-lab-project/Lab4/hall_of_fame_player.csv
